@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>George Law</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, George Law</rights>
+  <subtitle>welcome all</subtitle>
+  <title>George's blog</title>
+  <updated>2026-09-18T06:58:14.911Z</updated>
+  <entry>
+    <author>
+      <name>George Law</name>
+    </author>
+    <id>http://example.com/2026/09/18/hello-world/</id>
+    <link href="http://example.com/2026/09/18/hello-world/"/>
+    <published>2026-09-18T06:58:14.911Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-09-18T06:58:14.911Z</updated>
+  </entry>
+</feed>
