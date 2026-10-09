@@ -4,19 +4,32 @@
     <name>George Law</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <id>http://example.com/</id>
-  <link href="http://example.com/" rel="alternate"/>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <id>https://george-law.github.io/</id>
+  <link href="https://george-law.github.io/" rel="alternate"/>
+  <link href="https://george-law.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, George Law</rights>
   <subtitle>welcome all</subtitle>
   <title>George's blog</title>
-  <updated>2026-09-18T06:58:14.911Z</updated>
+  <updated>2026-10-09T12:35:59.903Z</updated>
   <entry>
     <author>
       <name>George Law</name>
     </author>
-    <id>http://example.com/2026/09/18/hello-world/</id>
-    <link href="http://example.com/2026/09/18/hello-world/"/>
+    <id>https://george-law.github.io/2026/10/09/learn-git-and-github/</id>
+    <link href="https://george-law.github.io/2026/10/09/learn-git-and-github/"/>
+    <published>2026-10-09T12:26:15.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="notes-about-git-github"><a href="#notes-about-git-github" class="headerlink" title="notes about git &amp; github"></a>notes about gi]]>
+    </summary>
+    <title>learn git and github</title>
+    <updated>2026-10-09T12:35:59.903Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>George Law</name>
+    </author>
+    <id>https://george-law.github.io/2026/09/18/hello-world/</id>
+    <link href="https://george-law.github.io/2026/09/18/hello-world/"/>
     <published>2026-09-18T06:58:14.911Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
